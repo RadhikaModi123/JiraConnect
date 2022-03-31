@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Atlassian.SDK" />
+    <None Remove="RestApi" />
+    <None Remove="Jira.SDK" />
+    <None Remove="Dapplo.Jira" />
+    <None Remove="CData.JIRA" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Atlassian.SDK" Version="13.0.0" />
+    <PackageReference Include="RestApi" Version="1.0.1.3" />
+    <PackageReference Include="Jira.SDK" Version="1.2.25" />
+    <PackageReference Include="Dapplo.Jira" Version="1.1.44" />
+    <PackageReference Include="CData.JIRA" Version="21.0.8091" />
+  </ItemGroup>
+</Project>

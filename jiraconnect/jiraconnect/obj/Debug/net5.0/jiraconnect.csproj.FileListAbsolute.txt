@@ -1,0 +1,5 @@
+/Users/raghavmodi/Desktop/jiraconnect/jiraconnect/obj/Debug/net5.0/jiraconnect.csproj.AssemblyReference.cache
+/Users/raghavmodi/Desktop/jiraconnect/jiraconnect/obj/Debug/net5.0/jiraconnect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghavmodi/Desktop/jiraconnect/jiraconnect/obj/Debug/net5.0/jiraconnect.AssemblyInfoInputs.cache
+/Users/raghavmodi/Desktop/jiraconnect/jiraconnect/obj/Debug/net5.0/jiraconnect.AssemblyInfo.cs
+/Users/raghavmodi/Desktop/jiraconnect/jiraconnect/obj/Debug/net5.0/jiraconnect.csproj.CoreCompileInputs.cache
